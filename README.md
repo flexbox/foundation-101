@@ -1,3 +1,10 @@
-# My Awesome Book
+# Foundation 101
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+For this course you are going to learn 3 things.
+
+* Foundation CLI
+* NodeJS and build system like Gulp
+* Use an email API 
+
+
+
