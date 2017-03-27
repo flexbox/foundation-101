@@ -8,6 +8,7 @@
 * [ ] Compiled CSS
 * [ ] Compiled JavaScript
 * [ ] Use a form endpoint API
+* [ ] Check error on form **before submit**
 
 ## Design
 
@@ -21,8 +22,6 @@
 * [ ] Robots.txt file
 * [ ] Sitemap.xml
 * [ ] Title / Description / H1 / url different for every pages
-
-
 
 
 
