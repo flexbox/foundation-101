@@ -27,6 +27,7 @@
 * [ ] Robots.txt file
 * [ ] Sitemap.xml
 * [ ] Title / Description / H1 / url different for every pages
+* [ ] Add open graph data and image, [check with this extention](https://chrome.google.com/webstore/detail/open-graph-preview/ehaigphokkgebnmdiicabhjhddkaekgh)
 
 
 
