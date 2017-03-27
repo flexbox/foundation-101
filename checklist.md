@@ -15,6 +15,7 @@
 * [ ] Nice palette color
 * [ ] Typography lover with a good font pairing
 * [ ] Responsive website
+* [ ] Clean layout using good UI
 * [ ] Favicon
 
 ## Seo
