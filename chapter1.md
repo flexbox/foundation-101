@@ -14,5 +14,8 @@ On the repo of your project, go to **Settings** &gt; **GitHub page**
 
 ## Link your domain name
 
-1Add a CNzefezfz
+1. Update your A record for this adress `192.30.252.153`
+2. Add a `CNAME`
+
+
 
