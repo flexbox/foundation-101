@@ -26,5 +26,3 @@ Go to your website and submit the form once. This will send you an email asking 
 
 From now on, when someone submits that form, we'll forward you the data as email.
 
-Want more ? Try to connect [Zapier](http://zapier.com/)
-
