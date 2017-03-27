@@ -3,9 +3,9 @@
 ## Dev
 
 * [ ] GitHub Hosting
-* [ ] Custom Domain name
-* [ ] Multiple pages website
-* [ ] Use a form endpoint API
+* [ ] Custom Domain name with a CNAME
+* [ ] Multiple pages website \(index.html, contact.html, about.html\)
+* [ ] Use a **form endpoint API**
 * [ ] Check error on form **before submit**
 * [ ] Use one JavaScript component \(modal, dropdown, accordion…\)
 
@@ -28,7 +28,8 @@
 * [ ] Sitemap.xml
 * [ ] Title / Description / H1 / url different for every pages
 * [ ] Add open graph data and image, [check with this extention](https://chrome.google.com/webstore/detail/open-graph-preview/ehaigphokkgebnmdiicabhjhddkaekgh)
-* [ ] Your own custom domain name with a CNAME
+
+
 
 
 
