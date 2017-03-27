@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Website](website.md)
+* [Build](website.md)
 * [Hosting](chapter1.md)
-* [Form API](form-api.md)
+* [API](form-api.md)
 

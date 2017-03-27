@@ -12,3 +12,7 @@ On the repo of your project, go to **Settings** &gt; **GitHub page**
 
 ![](/assets/Capture d’écran 2017-03-26 à 23.23.10.png)
 
+## Link your domain name
+
+1Add a CNzefezfz
+
