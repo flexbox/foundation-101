@@ -4,14 +4,14 @@ Setting it up is easy and free. Here's how:
 
 ### 1. Choose a service
 
-We are going to take [formkeep](https://formkeep.com/). Create your account now.
+We are going to take [formspree](https://formspree.io/). Setting it up is easy and free.
 
 ### 2. Setup the HTML form
 
-Change your form's `action`attribute to this and replace **api key** with your own.
+Change your form's `action`attribute to this and replace **your@email.com** with your own.
 
 ```
-<form accept-charset="UTF-8" action="https://formkeep.com/f/<YOUR_API_KEY>" method="POST">
+<form accept-charset="UTF-8" action="https://formspree.io/your@email.com" method="POST">
 ```
 
 ### 3. Add a name attribute to every field
