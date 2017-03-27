@@ -9,6 +9,7 @@
 * [ ] Compiled JavaScript
 * [ ] Use a form endpoint API
 * [ ] Check error on form **before submit**
+* [ ] Use one JavaScript component \(modal, dropdown, accordion…\)
 
 ## Design
 
