@@ -13,7 +13,7 @@
 
 ## Design
 
-* [ ] Nice palette color
+* [ ] Nice palette color with contrast
 * [ ] Typography lover with a good font pairing
 * [ ] Responsive website
 * [ ] Clean layout using good UI
