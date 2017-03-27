@@ -5,8 +5,6 @@
 * [ ] GitHub Hosting
 * [ ] Custom Domain name
 * [ ] Multiple pages website
-* [ ] Compiled CSS
-* [ ] Compiled JavaScript
 * [ ] Use a form endpoint API
 * [ ] Check error on form **before submit**
 * [ ] Use one JavaScript component \(modal, dropdown, accordion…\)
@@ -16,8 +14,13 @@
 * [ ] Nice palette color with contrast
 * [ ] Typography lover with a good font pairing
 * [ ] Responsive website
-* [ ] Clean layout using good UI
+* [ ] Clean layout using [goodui.org](http://goodui.org) guidelines
 * [ ] Favicon
+
+## Webperf
+
+* [ ] Compiled JavaScript
+* [ ] Compiled CSS
 
 ## Seo
 
