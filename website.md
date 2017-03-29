@@ -25,17 +25,5 @@ $ foundation new --framework sites --template zurb
 
 The CLI will prompt you to give your project a name. The template will be downloaded into a folder with this name.
 
-## Add some swag
-
-Remember the design course ? Try to add 3 thing
-
-* Nice color palette
-* Custom typography
-* Icons
-
-First try to edit this file`<PROJECT_NAME>/src/assets/scss/settings.scss`
-
-* _Bonus:_ you can use the [gravatar](https://fr.gravatar.com/) API if you need your face
-
 
 
