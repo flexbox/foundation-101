@@ -72,7 +72,22 @@ _Challenges:_
 
 ### Icons
 
+One the fastest solution to have icons is to use [fontawesome.io](http://fontawesome.io/)
+
+Just add the CDN link on your `<head>`
+
+```html
+<link href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+```
+
+_Challenges:_
+
+* [ ] Choose an icon library
+* [ ] Edit this file`<PROJECT_NAME>/src/layouts/default.html`
+
 ### Imagery
+
+[unsplash.com](https://unsplash.com/) is a great website for high-resolution photos.
 
 **Bonus:**
 
