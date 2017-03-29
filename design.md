@@ -74,5 +74,10 @@ _Challenges:_
 
 ### Imagery
 
-**Bonus:** you can use the [gravatar](https://fr.gravatar.com/) API if you need your face
+**Bonus:**
+
+* [ ] You can use the [gravatar](https://fr.gravatar.com/) API if you need your face
+* [ ] Use the [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) because web performance matters
+
+
 
