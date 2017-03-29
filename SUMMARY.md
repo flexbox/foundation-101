@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Website quality](website.md)
+* [Dev](website.md)
 * [Design](design.md)
 * [Hosting](chapter1.md)
 * [API](form-api.md)
