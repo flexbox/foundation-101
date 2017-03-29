@@ -16,10 +16,11 @@ _Challenges:_
 
 * [ ] Download a template
 * [ ] Hack the grid and build your own layout
+* [ ] If you feel lost just edit this file for now `<PROJECT_NAME>/src/pages/index.html`
 
 ### Color
 
-Don't write CSS here. We are going to use SCSS variables. First try to edit this file`<PROJECT_NAME>/src/assets/scss/settings.scss`
+At the beginnig a beautiful webdesign only need 3 colors. In this example you can see one main contrasted color \(red\), versus others colors \(green\).![](/assets/Capture d’écran 2017-03-30 à 00.15.36.png)Don't write CSS here. We are going to use SCSS variables.
 
 ```scss
 $foundation-palette: (
@@ -38,13 +39,40 @@ $white: #fefefe;
 
 Now you have defined your own colors your can use `$primary-color`, `$secondary-color` or `$black` for your design.
 
+**Protip:** There are a lot of color scheme generator, try to use one like [colorhunt.co](http://www.colorhunt.co/)
+
+_Challenges:_
+
+* [ ] Find a great color scheme
+* [ ] Edit this file`<PROJECT_NAME>/src/assets/scss/settings.scss`
+
 ### Typography
+
+For a great font pairing you can use [fonts.google.com](https://fonts.google.com/)
+
+In the foundation world, you only need to edit theses variables and BAM your hole website is updated.
+
+```scss
+$body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
+```
+
+```scss
+// 4. Base Typography
+// ------------------
+
+$header-font-family: $body-font-family;
+```
+
+**Protip: **Maximum 2 types of differents fonts because web performance matters
+
+_Challenges:_
+
+* [ ] Find a great font combinaison
+* [ ] Edit this file`<PROJECT_NAME>/src/assets/scss/settings.scss`
 
 ### Icons
 
 ### Imagery
 
 **Bonus:** you can use the [gravatar](https://fr.gravatar.com/) API if you need your face
-
-
 
