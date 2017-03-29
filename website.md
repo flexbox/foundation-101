@@ -1,15 +1,13 @@
-# Foundation CLI
+# Dev
 
 ## Installation
 
-To use this template, your computer needs:
+Your computer needs:
 
 * [NodeJS](https://nodejs.org/en/) \(0.12 or greater\)
 * [Git](https://git-scm.com/)
 
-This template can be installed with the Foundation CLI, or downloaded and set up manually.
-
-### Using the CLI
+### Mastering the Foundation CLI
 
 Install the Foundation CLI with this command:
 
@@ -24,6 +22,4 @@ $ foundation new --framework sites --template zurb
 ```
 
 The CLI will prompt you to give your project a name. The template will be downloaded into a folder with this name.
-
-
 
