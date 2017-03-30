@@ -10,7 +10,7 @@ We are going to take [formspree](https://formspree.io/). Setting it up is easy a
 
 Change your form's `action`attribute to this and replace **your@email.com** with your own.
 
-```
+```html
 <form accept-charset="UTF-8" action="https://formspree.io/your@email.com" method="POST">
 ```
 

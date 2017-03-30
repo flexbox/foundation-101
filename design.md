@@ -20,7 +20,11 @@ _Challenges:_
 
 ### Color
 
-At the beginnig a beautiful webdesign only need 3 colors. In this example you can see one main contrasted color \(red\), versus others colors \(green\).![](/assets/Capture d’écran 2017-03-30 à 00.15.36.png)Don't write CSS here. We are going to use SCSS variables.
+At the beginnig a beautiful webdesign only need 3 colors. In this example you can see one main contrasted color \(red\), versus others colors \(green\).
+
+![](/assets/webdesign-colors.png)
+
+Don't write CSS here. We are going to use SCSS variables.
 
 ```scss
 $foundation-palette: (
@@ -63,7 +67,7 @@ $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
 $header-font-family: $body-font-family;
 ```
 
-**Protip: **Maximum 2 types of differents fonts because web performance matters
+**Protip:** Maximum 2 types of differents fonts because web performance matters
 
 _Challenges:_
 
@@ -93,6 +97,3 @@ _Challenges:_
 
 * [ ] You can use the [gravatar](https://fr.gravatar.com/) API if you need your face
 * [ ] Use the [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) because web performance matters
-
-
-

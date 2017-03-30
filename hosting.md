@@ -4,7 +4,11 @@
 
 By convention the `dist`folder is used for compiled code.
 
-In our case we are going to change that for a FREE hosting hack. Edit the `config.yml`file like this :![](/assets/Capture d’écran 2017-03-26 à 23.27.44.png)Use this command to build the website
+In our case we are going to change that for a FREE hosting hack. Edit the `config.yml` file like this :
+
+![](/assets/foundation-cli-build-hack.png)
+
+Use this command to build the website
 
 ```bash
 $ foundation build
@@ -19,7 +23,7 @@ _Challenges:_
 
 On the repository of your project, go to **Settings** &gt; **Options** &gt; **GitHub page**
 
-![](/assets/Capture d’écran 2017-03-26 à 23.23.10.png)
+![](/assets/github-pages-docs-folder.png)
 
 _Challenges:_
 
@@ -29,16 +33,13 @@ _Challenges:_
 
 #### The lazy way
 
-Go to **Settings** &gt; **Options** &gt; **GitHub page **and add your own domain name
+Go to **Settings** &gt; **Options** &gt; **GitHub page** and add your own domain name
 
-#### ![](/assets/Capture d’écran 2017-03-30 à 10.12.13.png)
+#### ![](/assets/github-pages-custom-domain.png)
 
 #### The hacker way
 
 There are a lot of solutions for using a [custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/). The simple one is to change your DNS.
 
 1. Update your A record for this adress `192.30.252.153`
-2. Add a `CNAME`file [like this one](https://github.com/flexbox/davidl/blob/master/source/CNAME) 
-
-
-
+2. Add a `CNAME`file [like this one](https://github.com/flexbox/davidl/blob/master/source/CNAME)
