@@ -14,15 +14,28 @@ _Challenges:_
 
 * [ ] Commit your changes
 * [ ] Push to GitHub
-* [ ] Open a your favorite web browser and open [https://&lt;USER\_NAME&gt;.github.io/&lt;PROJECT\_NAME&gt;/](https://<USER_NAME>.github.io/<PROJECT_NAME>/)
 
 ## GitHub
 
-On the repo of your project, go to **Settings** &gt; **GitHub page**
+On the repository of your project, go to **Settings** &gt; **Options** &gt; **GitHub page**
 
 ![](/assets/Capture d’écran 2017-03-26 à 23.23.10.png)
 
-## Link your domain name
+_Challenges:_
+
+* [ ] Open a your favorite web browser and open [https://&lt;USER\_NAME&gt;.github.io/&lt;PROJECT\_NAME&gt;](https://<USER_NAME>.github.io/<PROJECT_NAME>/)
+
+## Link your own domain name
+
+#### The lazy way
+
+Go to **Settings** &gt; **Options** &gt; **GitHub page **and add your own domain name
+
+![](/assets/Capture d’écran 2017-03-30 à 10.12.13.png)
+
+#### The hacker way
+
+There are a lot of solutions for using a [custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/). The simple one is to change your DNS.
 
 1. Update your A record for this adress `192.30.252.153`
 2. Add a `CNAME`file [like this one](https://github.com/flexbox/davidl/blob/master/source/CNAME) 
