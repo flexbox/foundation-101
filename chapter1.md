@@ -31,7 +31,7 @@ _Challenges:_
 
 Go to **Settings** &gt; **Options** &gt; **GitHub page **and add your own domain name
 
-![](/assets/Capture d’écran 2017-03-30 à 10.12.13.png)
+#### ![](/assets/Capture d’écran 2017-03-30 à 10.12.13.png)
 
 #### The hacker way
 
