@@ -97,3 +97,6 @@ _Challenges:_
 
 * [ ] You can use the [gravatar](https://fr.gravatar.com/) API if you need your face
 * [ ] Use the [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) because web performance matters
+
+
+
