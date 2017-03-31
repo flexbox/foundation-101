@@ -10,7 +10,7 @@ With the foundation framework you can [start with responsive templates.](http://
 
 ![](http://foundation.zurb.com/assets/img/sites-templates/foundation6-templates-03.svg)
 
-**Protip:** Keep It Simple. Try to follow the principes of [goodui.org](http://goodui.org/)
+**Protip:** Keep It Simple. Try to follow the principes of [goodui.org](http://goodui.org/).
 
 _Challenges:_
 
@@ -67,7 +67,7 @@ $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
 $header-font-family: $body-font-family;
 ```
 
-**Protip:** Maximum 2 types of differents fonts because web performance matters
+**Protip:** Maximum 2 types of differents fonts because web performance matters.
 
 _Challenges:_
 
