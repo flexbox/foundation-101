@@ -6,10 +6,8 @@ This is a guide that anyone could use to learn about the practice of front-end d
 
 * Modern web developement using the terminal and **Node.js**
 * **Web design** with the Foundation framework
-* Deployment / Hosting and build system like Gulp
 * Use an API to send emails
-
-Thanks to GitHub the hosting is FREE on [GitHub pages](https://pages.github.com/)
+* Deployment / Hosting and build system like Gulp. Thanks to GitHub the hosting is FREE on [GitHub pages](https://pages.github.com/).
 
 ---
 
