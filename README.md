@@ -1,6 +1,10 @@
 # Foundation 101
 
-At the begining of the XXI century there is a new way for building websites : the **JAM Stack** \(JavaScript, API and Markup\). Based on modern development and best practice, you can say goodbye to the classic LAMP Stack \(Linux Apache MySql Php\).
+Written by [David Leuliette](http://davidl.fr/)
+
+---
+
+At the begining of the XXI century there is a new way for building websites : the **JAM Stack** \(JavaScript, API and Markup\). Based on modern development & best practice. You can say goodbye to the classic LAMP Stack \(Linux Apache MySql Php\).
 
 This is a guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used nowadays.
 
