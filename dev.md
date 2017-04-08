@@ -54,5 +54,9 @@ _Challenge:_
 * [ ] Build your first foundation website with the CLI
 * [ ] Launch your local server with `foundation watch`
 
+### Dependencies 101
+
+
+
 
 
