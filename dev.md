@@ -61,5 +61,28 @@ _Challenges:_
 
 ### Dependencies 101
 
+Welcome in the new JavaScript dependencies ~~world,~~ jungle 🌴🌴🌴  
+First everything is gonna be alright, just take a breath and read theses sentences.
+
+> **Npm** is a package manger for Node.js   
+> **Bower** is a JavaScript package manager 💀  
+> **Yarn** is a package manager for your code 🚚✨
+
+Remember just one thing every dependencies lives in `package.json` or `bower.json`
+
+For example if you want the same layout as medium.com you can install the [headroom.js](https://github.com/WickyNilliams/headroom.js) library
+
+###### Install with npm
+
+```
+npm install headroom.js --save
+```
+
+###### Install with bower
+
+```
+bower install https://unpkg.com/headroom.js/bower.zip --save
+```
+
 
 
