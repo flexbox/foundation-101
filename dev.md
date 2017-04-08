@@ -49,14 +49,17 @@ $ foundation new
 
 The CLI will prompt you to give your project a name. The template will be downloaded into a folder with this name.
 
-_Challenge:_
+_Challenges:_
 
 * [ ] Build your first foundation website with the CLI
+* [ ] Choose _Handlebars templates and Sass/JS compilers_
 * [ ] Launch your local server with `foundation watch`
+* [ ] Commit your changes with theses commands
+  * [ ] `$ git init`
+  * [ ] `$ git add .`
+  * [ ] `$ git commit --message 'Initial commit :new:'`
 
 ### Dependencies 101
-
-
 
 
 
