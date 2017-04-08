@@ -15,12 +15,16 @@
 * [ ] Typography lover with a good font pairing
 * [ ] Responsive website
 * [ ] Clean layout using [goodui.org](http://goodui.org) guidelines
-* [ ] Favicon
+* [ ] Custom favicon picture, follow the guidelines of [realfavicongenerator](http://realfavicongenerator.net/)
 
 ## Webperf
 
 * [ ] Compiled JavaScript
 * [ ] Compiled CSS
+
+To check the compiled sources, go to the _Sources_ tab on Chrome
+
+ ![](/assets/webperf-css.gif)
 
 ## Seo
 
