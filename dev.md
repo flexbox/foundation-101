@@ -33,7 +33,7 @@ _Challenge:_
 
 * [ ] Try to find my email with `github-email`
 
-### Mastering the Foundation CLI
+## Mastering the Foundation CLI
 
 Install the Foundation CLI with this command:
 
@@ -59,7 +59,7 @@ _Challenges:_
   * [ ] `$ git add .`
   * [ ] `$ git commit --message 'Initial commit :new:'`
 
-### Dependencies 101
+## Dependencies 101
 
 Welcome in the new JavaScript dependencies ~~world,~~ jungle 🌴🌴🌴  
 First everything is gonna be alright, just take a breath and read theses sentences.
@@ -90,5 +90,5 @@ $ bower install https://unpkg.com/headroom.js/bower.zip --save
 $ yarn add headroom.js --save
 ```
 
-Never EVER never omit `--save `option because it update automatically the dependecy file. Remember you work in a team. If you install a local dependency without saving it, you are going to break the project for others.
+Never EVER never omit `--save`option because it update automatically the dependecy file. Remember you work in a team. If you install a local dependency without saving it, you are going to break the project for others.
 
