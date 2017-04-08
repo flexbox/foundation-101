@@ -84,5 +84,11 @@ $ npm install headroom.js --save
 $ bower install https://unpkg.com/headroom.js/bower.zip --save
 ```
 
+###### Install with yarn
 
+```
+$ yarn add headroom.js --save
+```
+
+Never EVER never omit `--save `option because it update automatically the dependecy file. Remember you work in a team. If you install a local dependency without saving it, you are going to break the project for others.
 
