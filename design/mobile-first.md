@@ -16,16 +16,20 @@
 
 ## Mobile first approach
 
-A little Explanation of the mobile first 
+A little Explanation of the mobile first, always start by the `.small-*` CSS class when you are coding the page.
 
-Use the mobile-first grid to get support for the largest number of old devices.
+`<div class="row">  
+  <div class="small-12 medium-4 colunms"></div>  
+  <div class="small-12 medium-4 colunms"></div>  
+  <div class="small-12 medium-4 colunms"></div>  
+</div>`
 
-**Protip:** There are 2 grid system in foundation. For the begining [use the classic one.](http://foundation.zurb.com/sites/docs/grid.html)
+**Protip:** There are 2 grid system in foundation. For the begining [use the classic one](http://foundation.zurb.com/sites/docs/grid.html) to get support for the largest number of old devices.
 
 _Challenges:_
 
-* [ ] Use the grid with `.callout `classes to reproduce the **Responsive Design picure**
-* [ ] Use the grid with `.callout `classes to reproduce the **Scale picure**
+* [ ] Use the grid with `.callout`classes to reproduce the **Responsive Design picure**
+* [ ] Use the grid with `.callout`classes to reproduce the **Scale picure**
 
 
 
