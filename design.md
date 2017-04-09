@@ -49,6 +49,7 @@ _Challenges:_
 
 * [ ] Find a great color scheme
 * [ ] Edit this file`<PROJECT_NAME>/src/assets/scss/settings.scss`
+* [ ] Try the result on [http://localhost:8000/styleguide.html](http://localhost:8000/styleguide.html)
 
 ### Typography
 
@@ -73,6 +74,7 @@ _Challenges:_
 
 * [ ] Find a great font combinaison
 * [ ] Edit this file`<PROJECT_NAME>/src/assets/scss/settings.scss`
+* [ ] Try the result on [http://localhost:8000/styleguide.html](http://localhost:8000/styleguide.html)
 
 ### Icons
 
