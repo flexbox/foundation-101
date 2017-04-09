@@ -1,22 +1,29 @@
 # Flex Grid
 
-**Deep dive into our flexible, powerful grid:**
+## Getting Started
 
-Learn how to quickly build complex responsive layouts using the Foundation grid.
+Learn how to quickly build complex responsive layouts using the Foundation Flex Grid.
 
-/Users/cerebro/tmp/trash/
+**foundation-flex-grid file**
 
-@include foundation-grid;
+First you need to include `foundation-flex-grid` in your project `<PROJECT_NAME>/src/assets/scss/app.scss`
 
-// @include foundation-flex-grid;
+~~~sass
+// @include foundation-grid;
+@include foundation-flex-grid;
+~~~
 
-`<PROJECT_NAME>/src/assets/scss/app.scss`
+**flexbox variable**
 
-`<PROJECT_NAME>/src/assets/scss/_settings.scss`
+Activate the flexbox grid system on your settings  `<PROJECT_NAME>/src/assets/scss/_settings.scss`
 
-$global-flexbox: false;
+~~~sass
+$global-flexbox: true;
+~~~
 
-_Challenge_
+🚨 Now [refferal to the Flex Grid documentation](http://foundation.zurb.com/sites/docs/flex-grid.html) for building your layout.
+
+_Challenge:_
 
 * [ ] Activate the flexbox grid
 
@@ -32,15 +39,11 @@ Create evenly spaced blocks and get elements to line up easily. You can **define
 </div>
 ```
 
-
 ### Real life example
 
-Let’s build our first video games list!
+Let’s build our first video games list!![](/assets/zelda-games.png)For this we need some datas in json file `<PROJECT_NAME>/src/data/games.json`
 
-`<PROJECT_NAME>/src/data/games.json`
-
-
-~~~json
+```json
 [
   {
     "name": "The Legend of Zelda",
@@ -75,9 +78,9 @@ Let’s build our first video games list!
     "support": "Nintendo Switch"
   }
 ]
-~~~
+```
 
-~~~html
+```html
 <div class="row small-up-1 medium-up-2 large-up-3">
   {{#each games}}
     <div class="columns">
@@ -90,16 +93,17 @@ Let’s build our first video games list!
     </div>
   {{/each}}
 </div>
+```
 
-~~~
+_Challenge:_
 
+* [ ] Add The Legend of Zelda games on your `index.html`
 
 ## [Source Ordering](http://foundation.zurb.com/sites/docs/flex-grid.html#source-ordering)
 
 Shift columns around between our breakpoints to dictate how responsive layouts are viewed.
 
-
-~~~html
+```html
 <div class="row">
   <div class="column small-order-2 medium-order-1">
     This column will come second on small, and first on medium and larger.
@@ -108,5 +112,7 @@ Shift columns around between our breakpoints to dictate how responsive layouts a
     This column will come first on small, and second on medium and larger.
   </div>
 </div>
-~~~
+```
+
+
 
