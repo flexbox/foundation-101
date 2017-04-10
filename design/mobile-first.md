@@ -18,13 +18,11 @@
 
 A little Explanation of the mobile first, always start by the `.small-*` CSS class when you are coding the page.
 
-~~~html
-<div class="row">  
+`<div class="row">  
   <div class="small-12 medium-4 colunms"></div>  
   <div class="small-12 medium-4 colunms"></div>  
   <div class="small-12 medium-4 colunms"></div>  
-</div>
-~~~
+</div>`
 
 **Protip:** There are 2 grid system in foundation. For the begining [use the classic one](http://foundation.zurb.com/sites/docs/grid.html) to get support for the largest number of old devices.
 
