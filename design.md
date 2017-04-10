@@ -26,7 +26,7 @@ At the beginnig a beautiful webdesign only need 3 colors. In this example you ca
 
 Don't write CSS here. We are going to use SCSS variables.
 
-```scss
+~~~scss
 $foundation-palette: (
   primary: #1779ba,
   secondary: #767676,
@@ -39,7 +39,7 @@ $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
 $black: #0a0a0a;
 $white: #fefefe;
-```
+~~~
 
 Now you have defined your own colors your can use `$primary-color`, `$secondary-color` or `$black` for your design.
 
@@ -57,16 +57,16 @@ For a great font pairing you can use [fonts.google.com](https://fonts.google.com
 
 In the foundation world, you only need to edit theses variables and BAM your hole website is updated.
 
-```scss
+~~~scss
 $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
-```
+~~~
 
-```scss
+~~~scss
 // 4. Base Typography
 // ------------------
 
 $header-font-family: $body-font-family;
-```
+~~~
 
 **Protip:** Maximum 2 types of differents fonts because web performance matters.
 
@@ -82,9 +82,9 @@ One the fastest solution to have icons is to use [fontawesome.io](http://fontawe
 
 Just add the CDN link on your `<head>`
 
-```html
+~~~html
 <link href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-```
+~~~
 
 _Challenges:_
 
