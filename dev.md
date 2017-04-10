@@ -13,7 +13,7 @@ If you have some issues try to install **Node Version Manager,** a simple bash s
 
 [https://github.com/creationix/nvm](https://github.com/creationix/nvm)
 
-**Protip:** Show the list of differetns Node.js versions installed with `nvm list` and choose a default one with `nvm alias default 6.x.x`
+**Protip:** Show the list of differents Node.js versions installed with `nvm list` and choose a default one with `nvm alias default 6.x.x`
 
 ![](/assets/nodejs.gif)
 
@@ -64,7 +64,7 @@ _Challenges:_
 Welcome in the new JavaScript dependencies ~~world,~~ jungle 🌴🌴🌴  
 First everything is gonna be alright, just take a breath and read theses sentences.
 
-> **Npm** is a package manger for Node.js  
+> **Npm** is a package manager for Node.js  
 > **Bower** is a JavaScript package manager 💀  
 > **Yarn** is a package manager for your code 🚚✨
 
