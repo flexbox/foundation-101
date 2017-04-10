@@ -31,19 +31,19 @@ _Challenge:_
 
 Create evenly spaced blocks and get elements to line up easily. You can **define column widths at the row-level**, instead of the individual column level.
 
-```html
+~~~html
 <div class="row small-up-1 medium-up-2 large-up-3">
   <div class="column">1 per row on small</div>
   <div class="column">2 per row on medium</div>
   <div class="column">3 per row on large</div>
 </div>
-```
+~~~
 
 ### Real life example
 
 Let’s build our first video games list!![](/assets/zelda-games.png)For this we need some datas in json file `<PROJECT_NAME>/src/data/games.json`
 
-```json
+~~~json
 [
   {
     "name": "The Legend of Zelda",
@@ -78,9 +78,9 @@ Let’s build our first video games list!![](/assets/zelda-games.png)For this we
     "support": "Nintendo Switch"
   }
 ]
-```
+~~~
 
-```html
+~~~html
 <div class="row small-up-1 medium-up-2 large-up-3">
   {{#each games}}
     <div class="columns">
@@ -93,7 +93,7 @@ Let’s build our first video games list!![](/assets/zelda-games.png)For this we
     </div>
   {{/each}}
 </div>
-```
+~~~
 
 _Challenge:_
 
@@ -103,7 +103,7 @@ _Challenge:_
 
 Shift columns around between our breakpoints to dictate how responsive layouts are viewed.
 
-```html
+~~~html
 <div class="row">
   <div class="column small-order-2 medium-order-1">
     This column will come second on small, and first on medium and larger.
@@ -112,7 +112,4 @@ Shift columns around between our breakpoints to dictate how responsive layouts a
     This column will come first on small, and second on medium and larger.
   </div>
 </div>
-```
-
-
-
+~~~
