@@ -98,6 +98,11 @@ Let’s build our first video games list!![](/assets/zelda-games.png)For this we
 </div>
 ~~~
 
+**Protip:**
+{{#each user in users 5}} 
+    {{user.name}}
+{{/each}}
+
 _Challenge:_
 
 * [ ] Add The Legend of Zelda games on your `index.html`
