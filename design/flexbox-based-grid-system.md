@@ -11,6 +11,9 @@ First you need to include `foundation-flex-grid` in your project `<PROJECT_NAME>
 ~~~sass
 // @include foundation-grid;
 @include foundation-flex-grid;
+…
+// @include foundation-float-classes;
+@include foundation-flex-classes;
 ~~~
 
 **flexbox variable**
