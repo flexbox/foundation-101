@@ -44,4 +44,4 @@ There are a lot of solutions for using a [custom domain with GitHub Pages](https
 1. Update your A record for this adress `192.30.252.153`
 2. Add a `CNAME`file [like this one](https://github.com/flexbox/davidl/blob/master/source/CNAME)
 
-**NB** Each time ``foundation watch`` create CNAME files. 
+💡 **protip:** Each time `foundation watch` create a CNAME file.

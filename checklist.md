@@ -32,6 +32,3 @@ To check the compiled sources, go to the _Sources_ tab on Chrome
 * [ ] Sitemap.xml \(you can use an online sitemap generator\)
 * [ ] Title / Description / H1 / url different for every pages, use [SEO Frog](https://www.screamingfrog.co.uk/seo-spider/) to crawl the website
 * [ ] Add open graph data and image, [check with this extention](https://chrome.google.com/webstore/detail/open-graph-preview/ehaigphokkgebnmdiicabhjhddkaekgh)
-
-
-

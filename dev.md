@@ -27,7 +27,7 @@ For now we are going to use the global installation like this one:
 $ npm install github-email --global
 ```
 
-**Protip:** Search for packages on [GitHub](https://github.com/explore) or [npmsearch](https://npmsearch.com/)
+💡 **Protip:** Search for packages on [GitHub](https://github.com/explore) or [npmsearch](https://npmsearch.com/)
 
 _Challenge:_
 
@@ -61,11 +61,11 @@ _Challenges:_
 
 ## Dependencies 101
 
-Welcome in the new JavaScript dependencies ~~world,~~ jungle 🌴🌴🌴  
+Welcome in the new JavaScript dependencies ~~world,~~ jungle 🌴🌴🌴
 First everything is gonna be alright, just take a breath and read theses sentences.
 
-> **Npm** is a package manager for Node.js  
-> **Bower** is a JavaScript package manager 💀  
+> **Npm** is a package manager for Node.js
+> **Bower** is a JavaScript package manager 💀
 > **Yarn** is a package manager for your code 🚚✨
 
 Remember just one thing every dependencies lives in `package.json` or `bower.json`
@@ -90,5 +90,5 @@ $ bower install https://unpkg.com/headroom.js/bower.zip --save
 $ yarn add headroom.js --save
 ```
 
-Never EVER never omit `--save`option because it update automatically the dependecy file. Remember you work in a team. If you install a local dependency without saving it, you are going to break the project for others.
+🚓 Never omit `--save`option because it update automatically the dependecy file. Remember you work in a team. If you install a local dependency without saving it, you are going to break the project for others.
 
