@@ -13,7 +13,7 @@ If you have some issues try to install **Node Version Manager,** a simple bash s
 
 [https://github.com/creationix/nvm](https://github.com/creationix/nvm)
 
-**Protip:** Show the list of differents Node.js versions installed with `nvm list` and choose a default one with `nvm alias default 6.x.x`
+💡 **Protip:** Show the list of differents Node.js versions installed with `nvm list` and choose a default one with `nvm alias default 6.x.x`
 
 ![](/assets/nodejs.gif)
 
