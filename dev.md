@@ -21,16 +21,23 @@ If you have some issues try to install **Node Version Manager,** a simple bash s
 
 There are two ways to install npm packages: locally or globally. You choose which kind of installation to use based on how you want to use the package.
 
-For now we are going to use the global installation like this one:
+For now we are going to use the **global installation** like this one:
 
 ```bash
 $ npm install github-email --global
 ```
 
-💡 **Protip:** Search for packages on [GitHub](https://github.com/explore) or [npmsearch](https://npmsearch.com/)
+Magic! You just installed a new Command Line for your terminal, and you can use it like this:
 
-_Challenge:_
+```bash
+$ github-email <GITHUB_USERNAME>
+```
 
+💡 **Protip:** Looking for other cool packages? You can search on [GitHub](https://github.com/explore) or [npmsearch](https://npmsearch.com/).
+
+_Challenges:_
+
+* [ ] Open my [GitHub profile](http://github.com/flexbox/) and follow me 😉
 * [ ] Try to find my email with `github-email`
 
 ## Mastering the Foundation CLI
@@ -61,11 +68,11 @@ _Challenges:_
 
 ## Dependencies 101
 
-Welcome in the new JavaScript dependencies ~~world,~~ jungle 🌴🌴🌴
+Welcome in the new JavaScript dependencies ~~world,~~ jungle 🌴🌴🌴  
 First everything is gonna be alright, just take a breath and read theses sentences.
 
-> **Npm** is a package manager for Node.js
-> **Bower** is a JavaScript package manager 💀
+> **Npm** is a package manager for Node.js  
+> **Bower** is a JavaScript package manager 💀  
 > **Yarn** is a package manager for your code 🚚✨
 
 Remember just one thing every dependencies lives in `package.json` or `bower.json`
