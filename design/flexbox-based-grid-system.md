@@ -101,6 +101,7 @@ Let’s build our first video games list!![](/assets/zelda-games.png)For this we
 _Challenge:_
 
 * [ ] Add The Legend of Zelda games on your `index.html`
+* [ ] Change The game list for another one like [http://lists.design/list/videogames](http://lists.design/list/videogames)
 
 ## [Source Ordering](http://foundation.zurb.com/sites/docs/flex-grid.html#source-ordering)
 
