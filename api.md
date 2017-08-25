@@ -1,4 +1,4 @@
-# API Form endpoint for hamid
+# API Form endpoint
 
 Setting it up is easy and free. Here's how:
 
